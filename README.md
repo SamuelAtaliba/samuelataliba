@@ -1,5 +1,5 @@
 
-### OLá eu sou o Samuel Ataliba 👋🏾
+### OLá! Eu sou o Samuel Ataliba 👋🏾
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ataliba/)
 
